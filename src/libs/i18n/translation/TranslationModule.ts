@@ -1,0 +1,1 @@
+export type TranslationModule = { default: Record<string, string> } | Record<string, string>

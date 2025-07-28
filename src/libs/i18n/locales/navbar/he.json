@@ -1,0 +1,38 @@
+{
+  "nav.games": "משחקים",
+  "nav.dashboard": "לוח בקרה",
+  "nav.team": "צוות",
+  "nav.projects": "פרויקטים",
+  "nav.calendar": "יומן",
+  "nav.home": "בית",
+  "nav.about": "קצת עליי",
+  "nav.contact": "צרו קשר",
+  "nav.subjects": "מקצועות לימוד",
+  "nav.resources": "מאגרי מידע",
+  "nav.football": "כדורגל",
+  "nav.ukraine": "תמכו באוקראינה!",
+  "nav.bringThemHome": "את כולם עכשיו!",
+  "nav.earth": "כדור הארץ",
+  "nav.theSun": "השמש",
+  "nav.ourSolarSystem": "מערכת השמש",
+  "nav.astroPhysics": "אסטרו פיזיקה",
+
+  "nav.mercury": "כוכב חמה",
+  "nav.venus": "נוגה",
+  "nav.mars": "מאדים",
+  "nav.jupiter": "צדק",
+  "nav.saturn": "שבתאי",
+  "nav.uranus": "אורנוס",
+  "nav.neptune": "נפטון",
+
+  "nav.astroidBelt": "חגורת האסטרואידים",
+  "nav.plutoAndFriends": "פלוטו והחברים",
+  "nav.ortCloud": "עננת אורט",
+  "nav.history": "היסטוריה",
+
+  "nav.ai": "בינה מלאכותית",
+  "nav.aiIntroduction": "מבוא",
+  "nav.aiSupervisedLearning": "למידה מפוקחת",
+  "nav.aiUnsupervisedLearning": "למידה לא מפוקחת",
+  "nav.aiDeepLearning": "למידה עמוקה"
+}

@@ -1,0 +1,1 @@
+run ```python ./src/libs/i18n/translationGenerator.py``` just as using ```npm install``` after adding/removing .json file in locales.
