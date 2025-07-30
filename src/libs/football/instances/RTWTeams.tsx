@@ -1,0 +1,34 @@
+import { Team } from "@/libs/football/types";
+import { ChampionsLeague } from ".";
+
+export const Ajax: Team = Team.preCreate("football.ajax", ChampionsLeague, "football.johancruijffarena", 'https://upload.wikimedia.org/wikipedia/sco/7/79/Ajax_Amsterdam.svg');
+// export const Arsenal = Team.preCreate("football.arsenal", ChampionsLeague, "football.emirates");
+export const Atalanta: Team = Team.preCreate("football.atalanta", ChampionsLeague, "football.gewiss", 'https://assets.stickpng.com/images/584ab05530d6736bca3d6e08.png');
+// export const AthleticBilbao = Team.preCreate("football.athleticbilbao", ChampionsLeague, "football.sanmanes");
+// export const AtleticoMadrid = Team.preCreate("football.atleticomadrid", ChampionsLeague, "football.metropolitano");
+// export const Barcelona = Team.preCreate("football.barcelona", ChampionsLeague, "football.campnou");
+export const BayernMunich: Team = Team.preCreate("football.bayernmunich", ChampionsLeague, "football.allianz", 'https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png');
+export const BayerLeverkusen: Team = Team.preCreate("football.bayerleverkusen", ChampionsLeague, "football.bayarena", 'https://assets.stickpng.com/images/584d8651367b6a13e54477d1.png');
+export const BorussiaDortmund: Team = Team.preCreate("football.borussiadortmund", ChampionsLeague, "football.signalidunapark", 'https://assets.stickpng.com/images/584d8678367b6a13e54477d3.png');
+// export const Chelsea = Team.preCreate("football.chelsea", ChampionsLeague, "football.stamfordbridge");
+export const EintrachtFrankfurt: Team = Team.preCreate("football.eintrachtfrankfurt", ChampionsLeague, "football.deutschebankpark", 'https://assets.stickpng.com/images/584d865b367b6a13e54477d2.png');
+export const Galatasaray: Team = Team.preCreate("football.galatasaray", ChampionsLeague, "football.ramspark", 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Galatasaray_AS_logo_2025.svg');
+export const InterMilan: Team = Team.preCreate("football.intermilan", ChampionsLeague, "football.giuseppe", 'https://assets.stickpng.com/images/584aaf7130d6736bca3d6ded.png');
+export const Juventus: Team = Team.preCreate("football.juventus", ChampionsLeague, "football.allianzstadium", 'https://assets.stickpng.com/images/584aaf6330d6736bca3d6deb.png');
+// export const Liverpool = Team.preCreate("football.liverpool", ChampionsLeague, "football.anfield",'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e5.png');
+// export const ManchesterCity = Team.preCreate("football.manchestercity", ChampionsLeague, "football.etihad",'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e6.png');
+export const Marseille: Team = Team.preCreate("football.marseille", ChampionsLeague, "football.velodrome", 'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4d2.png');
+export const Monaco: Team = Team.preCreate("football.monaco", ChampionsLeague, "football.louis", 'https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg');
+export const Napoli: Team = Team.preCreate("football.napoli", ChampionsLeague, "football.diegomaradona", 'https://assets.stickpng.com/images/584ab0fb30d6736bca3d6e1c.png');
+// export const NewcastleUnited = Team.preCreate("football.newcastle", ChampionsLeague, "football.stjamespark",'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ec.png');
+export const Olympiacos: Team = Team.preCreate("football.olympiacos", ChampionsLeague, "football.karaiskakis", 'https://upload.wikimedia.org/wikipedia/en/a/a2/Olympiacos_FC_crest.svg');
+export const ParisSG: Team = Team.preCreate("football.psg", ChampionsLeague, "football.parcdesprinces", 'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4d8.png');
+export const PSV: Team = Team.preCreate("football.psv", ChampionsLeague, "football.philipsstadion", 'https://upload.wikimedia.org/wikipedia/en/0/05/PSV_Eindhoven.svg');
+// export const RealMadrid = Team.preCreate("football.realmadrid", ChampionsLeague, "football.bernabeu");
+export const SlaviaPrague: Team = Team.preCreate("football.slaviaprague", ChampionsLeague, "football.edensecurity", 'https://upload.wikimedia.org/wikipedia/commons/2/2b/SK_Slavia_Praha_full_logo.svg');
+export const SportingCP: Team = Team.preCreate("football.sportingcp", ChampionsLeague, "football.josealvalade", 'https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg');
+export const Tottenham: Team = Team.preCreate("football.tottenham", ChampionsLeague, "football.tottenhamstadium", 'https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png');
+export const UnionSG: Team = Team.preCreate("football.unionsg", ChampionsLeague, "football.stadion", 'https://assets.stickpng.com/images/584aa027715f776a8080c429.png');
+// export const Villarreal = Team.preCreate("football.villarreal", ChampionsLeague, "football.ceramica");
+
+export const TBD: Team = Team.preCreate("football.tbd", ChampionsLeague, "football.tbd");

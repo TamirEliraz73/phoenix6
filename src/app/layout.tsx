@@ -1,8 +1,9 @@
+import 'katex/dist/katex.min.css';
+import "./globals.css";
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { cookies } from "next/headers";
 import { LocaleInfo, type LocaleCode } from "@/libs/i18n/config";
-import "./globals.css";
 import { LocaleProvider } from "@/libs/i18n/providers";
 import { ClientRootLayout } from "@/components/root";
 

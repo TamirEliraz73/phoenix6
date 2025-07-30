@@ -16,7 +16,6 @@
   "nav.theSun": "השמש",
   "nav.ourSolarSystem": "מערכת השמש",
   "nav.astroPhysics": "אסטרו פיזיקה",
-
   "nav.mercury": "כוכב חמה",
   "nav.venus": "נוגה",
   "nav.mars": "מאדים",
@@ -24,14 +23,13 @@
   "nav.saturn": "שבתאי",
   "nav.uranus": "אורנוס",
   "nav.neptune": "נפטון",
-
   "nav.astroidBelt": "חגורת האסטרואידים",
   "nav.plutoAndFriends": "פלוטו והחברים",
   "nav.ortCloud": "עננת אורט",
   "nav.history": "היסטוריה",
-
+  "nav.physics": "פיזיקה",
   "nav.ai": "בינה מלאכותית",
-  "nav.aiIntroduction": "מבוא",
+  "nav.aiIntroduction": "מבוא לבינה מלאכותית",
   "nav.aiSupervisedLearning": "למידה מפוקחת",
   "nav.aiUnsupervisedLearning": "למידה לא מפוקחת",
   "nav.aiDeepLearning": "למידה עמוקה"

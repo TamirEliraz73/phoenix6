@@ -1,13 +1,12 @@
 {
   "football.stadium": "אצטדיון",
   "football.next_match": "המשחק הבא",
-
+  "football.round": "מחזור",
   "football.laliga": "לה ליגה",
   "football.primerleague": "פריימרליג",
   "football.allsvenskan": "אלסוונסקן",
   "football.ligathaal": "ליגת העל",
   "football.championsleague": "ליגת האלופות",
-
   "football.#": "#",
   "football.team": "קבוצה",
   "football.match": "משחק",
@@ -45,7 +44,6 @@
   "football.valencia": "ולנסיה",
   "football.valladolid": "ואיאדוליד",
   "football.villarreal": "ויאריאל",
-
   "football.mendizorrotza": "מנדיסורוצה",
   "football.sanmames": "סן מאמס",
   "football.metropolitano": "מטרופוליטנו",
@@ -66,7 +64,6 @@
   "football.ramonsanchezpizjuan": "רמון סאנצ'ס פיחואן",
   "football.mestalla": "מסאייה",
   "football.estadiodelaceramica": "אסטדיו דה לה סראמיקה",
-
   "football.ajax": "איאקס",
   "football.arsenal": "ארסנל",
   "football.atalanta": "אטאלנטה",
@@ -92,7 +89,6 @@
   "football.tottenham": "טוטנהאם",
   "football.unionsg": "יוניון סן ז׳ילואז",
   "football.tbd": "טרם נקבע",
-
   "football.arsenal": "ארסנל",
   "football.astonvilla": "אסטון וילה",
   "football.bournemouth": "בורנמות'",
@@ -113,7 +109,6 @@
   "football.tottenhamhotspur": "טוטנהאם הוטספר",
   "football.westhamunited": "ווסטהאם יונייטד",
   "football.wolverhampton": "וולבס",
-
   "football.emirates": "אצטדיון האמירויות",
   "football.villapark": "וילה פארק",
   "football.vitality": "אצטדיון ויטאליטי",
@@ -134,7 +129,6 @@
   "football.tottenhamstadium": "אצטדיון טוטנהאם הוטספר",
   "football.london": "אצטדיון לונדון",
   "football.molineux": "מוליניו",
-
   "football.beitarjerusalem": "בית\"ר ירושלים",
   "football.bneisakhnin": "בני סכנין",
   "football.hapoelbeersheva": "הפועל באר שבע",
@@ -149,7 +143,6 @@
   "football.maccabitelaviv": "מכבי תל אביב",
   "football.ironitiberias": "עירוני טבריה",
   "football.ironikiryatshmona": "עירוני קריית שמונה",
-
   "football.teddy": "טדי",
   "football.dohastadium": "דוחא",
   "football.turner": "טרנר",
@@ -160,52 +153,36 @@
   "football.greenstadium": "גרין",
   "football.maryemstadium": "נתניה",
   "football.kiryatshmona": "קריית שמונה",
-
   "football.aik": "א.י.ק.",
   "football.strawberryarena": "סטרוברי ארנה",
-
   "football.bkhacken": "האקן",
   "football.bravidaarena": "ברבידה ארנה",
-
   "football.degerfors": "דגרפורס",
   "football.storavalla": "סטורה ואלה",
-
   "football.djurgarden": "יורגארדן",
   "football.3arena": "3 ארנה",
-
   "football.gais": "גאיס",
   "football.gamlallevi": "גאמלה אולבי",
-
   "football.halmstad": "הלמסטאד",
   "football.orjansvall": "אוריאנס ואל",
-
   "football.hammarby": "האמרבי",
-
   "football.brommapojkarna": "ברומאפויקרנה",
   "football.grimstaip": "גרימסטה איי.פי.",
-
   "football.elfsborg": "אלפסבורי",
   "football.borasarena": "בורוס ארנה",
-
   "football.ifkgoteborg": "יטבורי",
   "football.ifknorrkoping": "נורשפין",
   "football.nyaparken": "נייה פארקן",
-
   "football.ifkvarnamo": "וורנאמו",
   "football.finnvedsvallen": "פינבדסוואלן",
-
   "football.sirius": "סיריוס",
   "football.studenternasip": "סטודנטרנאס איי.פי.",
-
   "football.malmo": "מאלמה",
   "football.stadion": "סטאדיון",
-
   "football.mjallby": "מלבי",
   "football.strandvallen": "סטרנדוואלן",
-
   "football.osters": "אסטרס",
   "football.vismaarena": "ויסמה ארנה",
-
   "football.spain": "ספרד",
   "football.netherlands": "הולנד",
   "football.france": "צרפת",
@@ -260,8 +237,6 @@
   "football.gibraltar": "גיברלטר",
   "football.liechtenstein": "ליכטנשטיין",
   "football.sanmarino": "סן מרינו",
-
-
   "football.group1": "בית א'",
   "football.group2": "בית ב'",
   "football.group3": "בית ג'",

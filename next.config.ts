@@ -57,10 +57,14 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
-        source: '/ai/intro', // הנתיב הישן
-        destination: '/ai/intro/introduction', // הנתיב החדש
+        source: '/football', // הנתיב הישן
+        destination: '/football/laliga', // הנתיב החדש
         permanent: true, // 301 Redirect (קבוע)
-      },
+      }, {
+        source: '/ai',
+        destination: '/ai/intro',
+        permanent: true
+      }
     ]
   }
 };

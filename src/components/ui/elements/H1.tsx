@@ -1,9 +1,7 @@
 import type { JSX, ReactNode } from "react";
 
-export default function H1({ children }: { children: ReactNode }): JSX.Element{
+export default function H1({ children, className }: { children: ReactNode, className?: string }): JSX.Element {
     return (
-        <h1>
-            {children}
-        </h1>
+        <h1 className={`text-5xl font-bold text-cyan-400 mb-10 ${className}`}>{children}</h1>
     )
 }
