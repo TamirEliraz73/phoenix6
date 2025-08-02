@@ -4,6 +4,8 @@ import { H3, P } from "@/components/ui/elements";
 import { Section } from "@/components/ui/sections";
 import type { JSX } from "react";
 import LinearRegression from "./LinearRegression";
+import PolynomialRegression from "./PolynomialRegression";
+import DeepNeuralNetworks from "./DeepNeuralNetworks";
 
 export default function Regression(): JSX.Element {
     return (<Section SHeader={
@@ -13,6 +15,8 @@ export default function Regression(): JSX.Element {
             <Inner />
             <div className="ms-5">
                 <LinearRegression />
+                <PolynomialRegression />
+                <DeepNeuralNetworks />
             </div>
         </>
     } />)

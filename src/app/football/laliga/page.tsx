@@ -9,7 +9,7 @@ export default function FootballLaLigaPage() {
         <div className="flex flex-col gap-10 my-10 mx-5">
             <div className="flex flex-row gap-5">
                 <FootballNextMatch page="2025–26_FC_Barcelona_season" section={21} />
-                <FootballNextMatch page="2025–26_Real_Madrid_CF_season" section={14} />
+                <FootballNextMatch page="2025–26_Real_Madrid_CF_season" section={15} />
             </div>
             <FootballTable page="Template:2025–26_La_Liga_table" league={LaLiga} />
         </div>

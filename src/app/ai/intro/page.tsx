@@ -1,4 +1,3 @@
-import 'katex/dist/katex.min.css';
 import { H2, P } from "@/components/ui/elements";
 import { BulletList, InlineMathLTR, NoteBox } from '@/components/ui/boxes';
 
